@@ -1,5 +1,3 @@
-# **Olá Humanos, eu venho em paz! 👽** 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertAnthoni&show_icons=true&theme=dark&locale=pt-br)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=25&color=FAFAFD&center=true&lines=_____+_👽Olá+Humanos!+Eu+Venho+em+Paz....!)](https://git.io/typing-svg)
 
 
